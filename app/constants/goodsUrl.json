@@ -1,0 +1,45 @@
+{
+  "data": [
+        {
+          "category_id":"10008",
+          "category_name":"今日特卖",
+          "category_url": "https://lebuy.scloud.letv.com/api/v3/category/listWithReport?versionName=5.8.210T_0922&ui=5.8&user-prefer-language=zh-cn&region=CN&offset=0&mac=b01bd21b816b&hwVersion=H3000&version=V1401RCN01C058210D09221T&category_id=10008&limit=100&model=MAX455B&_time=1476340278416&_ak=letv_lebuy&_sign=38eaa621071f1dcb346560b193416704"
+        },
+        {
+          "category_id":"10004",
+          "category_name":"家居厨房",
+          "category_url": "https://lebuy.scloud.letv.com/api/v3/category/listWithReport?versionName=5.8.210T_0922&ui=5.8&user-prefer-language=zh-cn&region=CN&offset=0&mac=b01bd21b816b&hwVersion=H3000&version=V1401RCN01C058210D09221T&category_id=10004&limit=100&model=MAX455B&_time=1476342846707&_ak=letv_lebuy&_sign=83e33527e4f5ab8164c3815d261b05e3",
+          "more_url":"https://lebuy.scloud.letv.com/api/v3/category/product?versionName=5.8.210T_0922&ui=5.8&user-prefer-language=zh-cn&region=CN&offset=0&mac=b01bd21b816b&hwVersion=H3000&version=V1401RCN01C058210D09221T&category_id=10004&limit=100&model=MAX455B&_time=1476415133249&_ak=letv_lebuy&_sign=17dc20ecae44113999a756d0c3b12460"
+        },
+        {
+          "category_id":"10006",
+          "category_name":"食品饮料",
+          "category_url": "https://lebuy.scloud.letv.com/api/v3/category/listWithReport?versionName=5.8.210T_0922&ui=5.8&user-prefer-language=zh-cn&region=CN&offset=0&mac=b01bd21b816b&hwVersion=H3000&version=V1401RCN01C058210D09221T&category_id=10006&limit=100&model=MAX455B&_time=1476340242483&_ak=letv_lebuy&_sign=43f10c8b5a23c2ab37f8b295124baae8",
+          "more_url":"https://lebuy.scloud.letv.com/api/v3/category/product?versionName=5.8.210T_0922&ui=5.8&user-prefer-language=zh-cn&region=CN&offset=0&mac=b01bd21b816b&hwVersion=H3000&version=V1401RCN01C058210D09221T&category_id=10006&limit=100&model=MAX455B&_time=1476415193633&_ak=letv_lebuy&_sign=482e186ed28b8022dc602a6da38f5222"
+        },
+        {
+          "category_id":"10009",
+          "category_name":"潮流时尚",
+          "category_url": "https://lebuy.scloud.letv.com/api/v3/category/listWithReport?versionName=5.8.210T_0922&ui=5.8&user-prefer-language=zh-cn&region=CN&offset=0&mac=b01bd21b816b&hwVersion=H3000&version=V1401RCN01C058210D09221T&category_id=10009&limit=100&model=MAX455B&_time=1476342856517&_ak=letv_lebuy&_sign=31fd55f8abb19669b8706f5e5b2a88f2",
+          "more_url":"https://lebuy.scloud.letv.com/api/v3/category/product?versionName=5.8.210T_0922&ui=5.8&user-prefer-language=zh-cn&region=CN&offset=0&mac=b01bd21b816b&hwVersion=H3000&version=V1401RCN01C058210D09221T&category_id=10009&limit=100&model=MAX455B&_time=1476415311124&_ak=letv_lebuy&_sign=1ed5c3f402f1518fdc4f68363da78685"
+        },
+        {
+          "category_id":"10007",
+          "category_name":"个护美妆",
+          "category_url": "https://lebuy.scloud.letv.com/api/v3/category/listWithReport?versionName=5.8.210T_0922&ui=5.8&user-prefer-language=zh-cn&region=CN&offset=0&mac=b01bd21b816b&hwVersion=H3000&version=V1401RCN01C058210D09221T&category_id=10007&limit=100&model=MAX455B&_time=1476340251672&_ak=letv_lebuy&_sign=a37970dcc21c1870a594b59c42f423eb",
+          "more_url":"https://lebuy.scloud.letv.com/api/v3/category/product?versionName=5.8.210T_0922&ui=5.8&user-prefer-language=zh-cn&region=CN&offset=0&mac=b01bd21b816b&hwVersion=H3000&version=V1401RCN01C058210D09221T&category_id=10007&limit=100&model=MAX455B&_time=1476415354023&_ak=letv_lebuy&_sign=eb950e11d265f0192eb5ce782334a702"
+        },
+        {
+          "category_id":"10005",
+          "category_name":"服饰鞋包",
+          "category_url": "https://lebuy.scloud.letv.com/api/v3/category/listWithReport?versionName=5.8.210T_0922&ui=5.8&user-prefer-language=zh-cn&region=CN&offset=0&mac=b01bd21b816b&hwVersion=H3000&version=V1401RCN01C058210D09221T&category_id=10005&limit=100&model=MAX455B&_time=1476343650658&_ak=letv_lebuy&_sign=06f2340eabb453113f90be260fd54012",
+          "more_url":"https://lebuy.scloud.letv.com/api/v3/category/product?versionName=5.8.210T_0922&ui=5.8&user-prefer-language=zh-cn&region=CN&offset=0&mac=b01bd21b816b&hwVersion=H3000&version=V1401RCN01C058210D09221T&category_id=10005&limit=100&model=MAX455B&_time=1476415408660&_ak=letv_lebuy&_sign=14e52a3aebc78b3a1b8d1528307b8040"
+        },
+        {
+          "category_id":"10003",
+          "category_name":"亲子母婴",
+          "category_url": "https://lebuy.scloud.letv.com/api/v3/category/listWithReport?versionName=5.8.210T_0922&ui=5.8&user-prefer-language=zh-cn&region=CN&offset=0&mac=b01bd21b816b&hwVersion=H3000&version=V1401RCN01C058210D09221T&category_id=10003&limit=100&model=MAX455B&_time=1476340251040&_ak=letv_lebuy&_sign=cebe8006e099c3cc11060015d8266bc2",
+          "more_url":"https://lebuy.scloud.letv.com/api/v3/category/product?versionName=5.8.210T_0922&ui=5.8&user-prefer-language=zh-cn&region=CN&offset=0&mac=b01bd21b816b&hwVersion=H3000&version=V1401RCN01C058210D09221T&category_id=10003&limit=100&model=MAX455B&_time=1476415454100&_ak=letv_lebuy&_sign=b59caa114f16cd6c70db03f6419a104d"
+        }
+  ]
+}

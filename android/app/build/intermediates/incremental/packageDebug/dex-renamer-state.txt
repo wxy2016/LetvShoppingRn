@@ -1,0 +1,7 @@
+#Thu Dec 01 09:49:03 CST 2016
+base.0=/home/wuxiaoyang/Letv/LETVRN/LetvShoppingRn/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_cd2f19f11c23a3e9b979911756eed4c5223be8c5
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/wuxiaoyang/Letv/LETVRN/LetvShoppingRn/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_9ec73a346d4d0d4490a6997802a7eb1029f41a0b/classes.dex
+base.1=/home/wuxiaoyang/Letv/LETVRN/LetvShoppingRn/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_9ec73a346d4d0d4490a6997802a7eb1029f41a0b
+file.0=/home/wuxiaoyang/Letv/LETVRN/LetvShoppingRn/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_cd2f19f11c23a3e9b979911756eed4c5223be8c5/classes.dex

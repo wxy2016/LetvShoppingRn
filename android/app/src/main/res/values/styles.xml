@@ -1,0 +1,16 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+    <style name="Widget.Letv.Holo.Button" parent="android:Widget.Holo.Button">
+        <item name="android:textSize">@dimen/letv_text_size_medium</item>
+        <item name="android:background">@drawable/btn_default_holo_letv</item>
+        <item name="android:textColor">@color/primary_text_holo_letv</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:focusable">true</item>
+        <item name="android:clickable">true</item>
+        <item name="android:gravity">center</item>
+    </style>
+</resources>

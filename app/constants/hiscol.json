@@ -1,0 +1,105 @@
+{
+  "data": [
+    {
+      "goods": [
+        {
+          "icon": "http://img2.hdletv.com/parts/20160921/513474939471312",
+          "type":"HisCol"
+        },
+        {
+          "icon": "http://img2.hdletv.com/parts/20160921/513472812481185",
+          "type":""
+        },
+        {
+          "icon": "http://img2.hdletv.com/parts/20160921/513472872612614",
+           "type":""
+        },
+        {
+          "icon": "http://img2.hdletv.com/parts/20160921/513476004211956",
+           "type":""
+        },
+        {
+          "icon": "http://img2.hdletv.com/parts/20160921/513478689917599",
+          "type":""
+        },
+        {
+          "icon": "http://img2.hdletv.com/parts/20160921/513478786413650",
+          "type":""
+        },
+       {
+          "icon": "http://img2.hdletv.com/parts/20160921/513478988982239",
+          "type":""
+        },
+        {
+          "icon": "http://img2.hdletv.com/parts/20160921/513481894887468",
+          "type":""
+        },
+        {
+          "icon": "http://img2.hdletv.com/parts/20160921/513481994073692",
+          "type":""
+        },
+        {
+          "icon": "http://img2.hdletv.com/parts/20160921/513482321663907",
+          "type":""
+        },
+        {
+          "icon": "http://img2.hdletv.com/parts/20160921/513475849045529",
+          "type":""
+        }
+      ],
+      "title": "收藏",
+      "bgImg": "http://static.scloud.letv.com/res/8c82bff5-e25a-46ae-832a-bc01924f189b.jpg"
+    },
+    {
+      "goods": [
+        {
+          "icon": "http://img2.hdletv.com/parts/20160921/513476004211956",
+          "type":""
+        },
+        {
+          "icon": "http://img2.hdletv.com/parts/20160921/513472812481185",
+          "type":""
+        },
+        {
+          "icon": "http://img2.hdletv.com/parts/20160921/513472872612614",
+          "type":""
+        },
+        {
+          "icon": "http://img2.hdletv.com/parts/20160921/513476004211956",
+          "type":""
+        },
+        {
+          "icon": "http://img2.hdletv.com/parts/20160921/513478689917599",
+          "type":""
+        },
+        {
+          "icon": "http://img2.hdletv.com/parts/20160921/513478786413650",
+          "type":""
+        },
+       {
+          "icon": "http://img2.hdletv.com/parts/20160921/513478988982239",
+          "type":""
+        },
+        {
+          "icon": "http://img2.hdletv.com/parts/20160921/513481894887468",
+          "type":""
+        },
+        {
+          "icon": "http://img2.hdletv.com/parts/20160921/513481994073692",
+          "type":""
+        },
+        {
+          "icon": "http://img2.hdletv.com/parts/20160921/513482321663907",
+          "type":""
+        },
+        {
+          "icon": "http://img2.hdletv.com/parts/20160921/513475849045529",
+          "type":""
+        }
+      ],
+      "title": "历史",
+      "bgImg": "http://static.scloud.letv.com/res/da3baa78-b44d-4f80-8e42-c4cced277827.jpg"
+    }
+  ]
+}
+

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="transparent">#00000000</color>
+    <color name="normal">#66ffffff</color>
+    <color name="focused">#ffffffff</color>
+    <color name="screen_background_letv">#1b1b23</color>
+    <color name="white80">#CCFFFFFF</color>
+    <color name="white70">#B2FFFFFF</color>
+    <color name="white18">#2EFFFFFF</color>
+    <color name="white8">#14FFFFFF</color>
+    <color name="white20">#33FFFFFF</color>
+    <color name="white10">#20FFFFFF</color>
+    <color name="white3">#07FFFFFF</color>
+    <color name="black80">#CC000000</color>
+    <color name="black70">#B2000000</color>
+    <color name="orange">#ff6000</color>
+    <color name="system_blue">#006bef</color>
+    <color name="button_blue">#009DEE</color>
+
+    <!-- speed test -->
+    <color name="white">#FFFFFF</color> <!-- 白色 -->
+    <color name="bg_transparent">#00000000</color>
+    <color name="price_color">#F07600</color>
+    <color name="primary_holo_letv_normal">#66ffffff</color>
+    <color name="primary_holo_letv_focused">#ffffffff</color>
+    <color name="primary_holo_letv_disable">#19ffffff</color>
+    <!-- player -->
+    <color name="text_focused_color">#FFFFFF</color>
+    <color name="text_normal_color">#FF999999</color>
+    <color name="white40">#66ffffff</color>
+    <color name="white30">#4cffffff</color>
+    <color name="primary_holo_letv_info">#33ffffff</color>
+    <color name="black">#ff000000</color>
+    <!-- video list -->
+    <color name="black50">#80000000</color>
+    <color name="video_item_name_color">#3b3b3b</color>
+    <!-- toolbar -->
+    <!-- product details -->
+    <color name="detail_price_color">#ffaf00</color>
+    <color name="detail_list_item_bg">#d9d9da</color>
+    <color name="black12">#1f000000</color>
+    <color name="black40">#66000000</color>
+    <color name="detail_tab_item_checked_color">#ff6600</color>
+
+    <!-- second function: order form -->
+    <color name="common_orange_color">#ffac00</color>
+    <color name="white60">#99ffffff</color>
+    <color name="delivery_status_color">#ffac00</color>
+    <color name="vertical_divider_color">#12ffffff</color>
+    <color name="default_address_tv_color">#faac00</color>
+
+    <!-- coupon list -->
+    <color name="coupon_item_background">#ff4367</color>
+    <color name="coupon_tab_item_checked_color">#f19e10</color>
+    <color name="coupon_button_normal_bg">#653EF5</color>
+    <color name="coupon_button_click_bg">#ea4c2d</color>
+    <color name="coupon_button_enable_bg">#adadae </color>
+
+    <!-- lepay begin -->
+    <color name="lepay_red">#FF0000</color>
+    <color name="lepay_white">#ffffff</color>
+    <color name="lepay_cashier_black">#000000</color>
+    <!-- 字体颜色 -->
+    <color name="lepay_actionbar_title_font_color">#000000</color>
+    <color name="lepay_bind_manage_add_font_color">#d6d6d6</color>
+    <color name="lepay_bottom_button_font_color">#ffffff</color>
+    <color name="lepay_item_bankname_font_color">#000000</color>
+    <color name="lepay_item_bankno_font_color">#8d8d8d</color>
+    <color name="lepay_et_cardinfo_font_color">#cecece</color>
+    <color name="lepay_tv_paymoney_font_color">#242424</color>
+    <color name="lepay_tv_paymoneyvalue_font_color">#fd4d4b</color>
+    <color name="lepay_tv_agree_font_color">#000000</color>
+    <color name="lepay_tv_note_font_color">#6b6b6b</color>
+    <color name="lepay_et_mobile_font_color">#959595</color>
+    <color name="lepay_et_validity_font_color">#959595</color>
+    <color name="lepay_paychannel_item_desc_font_color">#959595</color>
+    <color name="lepay_cashier_trade_title_font_color">#343434</color>
+    <color name="lepay_cashier_trade_desc_font_color">#aaaaaa</color>
+    <color name="lepay_cashier_trade_price_font_color">#f55d5d</color>
+    <color name="lepay_note_verify_cvv2_color">#ff333333</color>
+    <color name="lepay_common_dialog_font_color">#8b8a8a</color>
+    <color name="lepay_common_dialog_desc_font_color">#666666</color>
+    <color name="lepay_tv_password_dialog_forget_password_font_color">#0093dc</color>
+    <color name="lepay_tv_password_dialog_bank_font_color">#2f3737</color>
+    <color name="lepay_tv_desc_num_font_color">#333333</color>
+    <color name="lepay_tv_password_dialog_desc_font_color">#999999</color>
+    <color name="lepay_cashier_paytype_other_selector_font_color">#727272</color>
+    <color name="lepay_tv_password_dialog_money_font_color">#f45f60</color>
+    <color name="lepay_tv_agreement_dialog_desc_font_color">#303538</color>
+
+    <!-- 背景色值 -->
+    <color name="lepay_actionbar_bg_color">#e9e9e9</color>
+    <color name="lepay_page_layout_bg_color">#e9e9e9</color>
+    <color name="lepay_page_layout_bg_color2">#f7f7f7</color>
+    <color name="lepay_iv_password_dialog_line_bg_color">#f4f4f4</color>
+    <!-- 密码color -->
+    <color name="lepay_actionbar_leftbutton_select">#dcdcdc</color>
+    <color name="lepay_actionbar_leftbutton">#e9e9e9</color>
+    <color name="lepay_black">#000000</color>
+    <color name="cF45353">#F45353</color>
+    <color name="c717272">#717272</color>
+    <color name="c555555">#555555</color>
+    <color name="cB3B3B3">#B3B3B3</color>
+    <color name="c333333">#333333</color>
+    <color name="cc7c7c7">#c7c7c7</color>
+    <color name="cfff8ee">#fff8ee</color>
+    <color name="c00323232">#aa323232</color>
+    <color name="cFFA44F">#FFA44F</color>
+    <color name="cF2782D">#F2782D</color>
+    <color name="cd7d7d7">#d7d7d7</color>
+    <color name="c049fef">#049fef</color>
+    <color name="cfd8221">#ffae00</color>
+
+    <!-- 改版风格颜色 -->
+    <color name="c33396d">#33396d</color>
+    <color name="c5057a8">#5057a8</color>
+    <color name="c393f79">#393f79</color>
+    <color name="c434a90">#434a90</color>
+    <color name="cff5f00">#ff5f00</color>
+    <color name="ccc4d00">#cc4d00</color>
+    <!-- lepay end -->
+
+</resources>

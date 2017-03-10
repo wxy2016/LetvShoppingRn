@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/wuxiaoyang/Letv/LETVRN/LetvShoppingRn/android/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="66abe9272bfb6d0699b5045f735fbafaa5b9de0d">
+        <dex dex="/home/wuxiaoyang/Letv/LETVRN/LetvShoppingRn/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_cd2f19f11c23a3e9b979911756eed4c5223be8c5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/wuxiaoyang/Letv/LETVRN/LetvShoppingRn/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/wuxiaoyang/Letv/LETVRN/LetvShoppingRn/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_9c77dea49018c800d6d04f7d43e898d6bc5fa82a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/wuxiaoyang/Letv/LETVRN/LetvShoppingRn/android/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69e284594e02e84b951151010a4a33e575912b51">
+        <dex dex="/home/wuxiaoyang/Letv/LETVRN/LetvShoppingRn/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_9ec73a346d4d0d4490a6997802a7eb1029f41a0b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/wuxiaoyang/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/home/wuxiaoyang/Letv/LETVRN/LetvShoppingRn/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/jsr305-3.0.0_734f2589546c1d34b6651076c9a33ebefebf38b0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/wuxiaoyang/Letv/LETVRN/LetvShoppingRn/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/wuxiaoyang/Letv/LETVRN/LetvShoppingRn/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_efdc210d2fa8c3fb45146159366d1b4614244f66/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/wuxiaoyang/Letv/LETVRN/LetvShoppingRn/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.34.1/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="085d4b604a91b790ed60ccf219b0c30c9db7d9ea">
+        <dex dex="/home/wuxiaoyang/Letv/LETVRN/LetvShoppingRn/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/infer-annotations-1.5_744f5e52eba075242bba505725a48002a6295d9c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/wuxiaoyang/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/home/wuxiaoyang/Letv/LETVRN/LetvShoppingRn/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.9.0_30bcf6ba47a9d0fa8bf70ae2046815179356ff98/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/wuxiaoyang/Letv/LETVRN/LetvShoppingRn/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.11.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="/home/wuxiaoyang/Letv/LETVRN/LetvShoppingRn/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-drawee-0.11.0_fb29f0099a9857ebfb9db6f173e0687801e5cf39/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/wuxiaoyang/Letv/LETVRN/LetvShoppingRn/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/home/wuxiaoyang/Letv/LETVRN/LetvShoppingRn/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.0.1_e98053125f64b179d896618a20f797981277f202/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/wuxiaoyang/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/wuxiaoyang/Letv/LETVRN/LetvShoppingRn/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_8768809a51a35fa256ac03f4f77612516e285e63/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/wuxiaoyang/Letv/LETVRN/LetvShoppingRn/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/wuxiaoyang/Letv/LETVRN/LetvShoppingRn/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_15748a6bb82450e9d7c4b23a5c450b1ab42aa7cb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/wuxiaoyang/Letv/LETVRN/LetvShoppingRn/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.11.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="/home/wuxiaoyang/Letv/LETVRN/LetvShoppingRn/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-fresco-0.11.0_70f865dd7566b6111b2d7479ff6aa4af0e53f9a1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/wuxiaoyang/Letv/LETVRN/LetvShoppingRn/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.11.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="/home/wuxiaoyang/Letv/LETVRN/LetvShoppingRn/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-imagepipeline-base-0.11.0_02fdd0a61597e41a4528becef6ae7e558ea7218f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/wuxiaoyang/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/home/wuxiaoyang/Letv/LETVRN/LetvShoppingRn/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-urlconnection-3.4.1_a600823e363a018cd3b94a18eee567c3d37f7ce6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/wuxiaoyang/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.3/1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14/jackson-core-2.2.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
+        <dex dex="/home/wuxiaoyang/Letv/LETVRN/LetvShoppingRn/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-core-2.2.3_4e347725977319d5a336d13d1b086120acd53094/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/wuxiaoyang/Letv/LETVRN/LetvShoppingRn/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/wuxiaoyang/Letv/LETVRN/LetvShoppingRn/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_310b82bcb2f64315992dad41f2bfe1c1b9566f1d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/usr/share/applications/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/wuxiaoyang/Letv/LETVRN/LetvShoppingRn/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_6be28043c5eec1e226b0f3bbe7a821bff57432da/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/wuxiaoyang/.gradle/caches/modules-2/files-2.1/org.nanohttpd/nanohttpd/2.2.0/73a02117620b6cc7683a1ed6ae24c2f36e2a715/nanohttpd-2.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="073a02117620b6cc7683a1ed6ae24c2f36e2a715">
+        <dex dex="/home/wuxiaoyang/Letv/LETVRN/LetvShoppingRn/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/nanohttpd-2.2.0_6c85d881956995b68e0b247e654df10161519386/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/wuxiaoyang/Letv/LETVRN/LetvShoppingRn/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/wuxiaoyang/Letv/LETVRN/LetvShoppingRn/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_378c1b2702ba85cfc0348ae2f4e5a3ffcfbc3938/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/wuxiaoyang/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/home/wuxiaoyang/Letv/LETVRN/LetvShoppingRn/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/library-2.4.0_331fb0f7c14b86075e9fbc5fc9db5128b0c81cd2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/wuxiaoyang/Letv/LETVRN/LetvShoppingRn/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.11.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="/home/wuxiaoyang/Letv/LETVRN/LetvShoppingRn/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-imagepipeline-0.11.0_104a3cef371e214ee000d57b7502db9b7fecc7a0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/wuxiaoyang/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/home/wuxiaoyang/Letv/LETVRN/LetvShoppingRn/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.4.1_0bbc4c5016117a23f42f95636387733094a6ce8b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/wuxiaoyang/Letv/LETVRN/LetvShoppingRn/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/home/wuxiaoyang/Letv/LETVRN/LetvShoppingRn/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.soloader-soloader-0.1.0_0cec3bdddff6cd8b411f95051f5e4a00c2d63672/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/wuxiaoyang/Letv/LETVRN/LetvShoppingRn/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.11.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="/home/wuxiaoyang/Letv/LETVRN/LetvShoppingRn/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-imagepipeline-okhttp3-0.11.0_4b9d86e10a4ead12893fc5a79e80589d7251c6ec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/wuxiaoyang/Letv/LETVRN/LetvShoppingRn/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.34.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="24959c1d0b0991e7d0d42ab7bd7e7d68b2c3e679">
+        <dex dex="/home/wuxiaoyang/Letv/LETVRN/LetvShoppingRn/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.react-react-native-0.34.1_7cf4849f6c22047d8554736a54409bc516c61409/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/wuxiaoyang/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/home/wuxiaoyang/Letv/LETVRN/LetvShoppingRn/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-ws-3.4.1_2de511a0b78ab731a36e6a3c847634fe0ad4dc40/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/wuxiaoyang/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/wuxiaoyang/Letv/LETVRN/LetvShoppingRn/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/javax.inject-1_f5511a6a39a78f8e51cc3ddf4f4b93b619192633/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/wuxiaoyang/Letv/LETVRN/LetvShoppingRn/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="/home/wuxiaoyang/Letv/LETVRN/LetvShoppingRn/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-fbcore-0.11.0_21c7d512ff52b4460bee54f02c779458e0c0f4a6/classes.dex" />
+    </item>
+
+</items>

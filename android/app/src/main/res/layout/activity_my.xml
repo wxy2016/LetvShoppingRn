@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.stv.shopping.widget.LeButton
+        style="@style/Widget.Letv.Holo.Button"
+        android:id="@+id/click_btn"
+        android:layout_width="212dp"
+        android:layout_height="56dp"
+        android:layout_centerInParent="true"
+        android:focusable="true"
+        android:gravity="center"
+        android:onClick="onBack"
+        android:text="原生按钮" />
+
+
+</RelativeLayout>

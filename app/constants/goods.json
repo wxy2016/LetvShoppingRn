@@ -1,0 +1,368 @@
+{
+  "data": [
+    {
+      "goods": [
+        {
+          "icon": "http://static-scloud.cp21.ott.cibntv.net/res/0d68e4af-ca1e-42fc-9b90-8f64c449e393.jpg",
+          "type": "HisCol"
+        },
+        {
+          "icon": "http://static-scloud.cp21.ott.cibntv.net/res/9fbaea76-7dad-47c7-9648-5e84f63972f5.jpg",
+          "type": ""
+        },
+        {
+          "icon": "http://static-scloud.cp21.ott.cibntv.net/res/e536895c-57d3-4726-97ad-ffbd1749343f.jpg",
+          "type": ""
+        },
+        {
+          "icon": "http://static-scloud.cp21.ott.cibntv.net/res/467f0206-2382-4469-9d01-33eacacafb24.jpg",
+          "type": ""
+        },
+        {
+          "icon": "http://static-scloud.cp21.ott.cibntv.net/res/1e1889b1-4414-4268-918c-4e1cd1de9f89.jpg",
+          "type": ""
+        },
+        {
+          "icon": "http://static-scloud.cp21.ott.cibntv.net/res/3b5cabeb-92bb-4409-b0ae-2e1d1089a39a.jpg",
+          "type": ""
+        },
+        {
+          "icon": "http://img2.hdletv.com/parts/20160921/513478786413650",
+          "type": ""
+        },
+        {
+          "icon": "http://img2.hdletv.com/parts/20160921/513478988982239",
+          "type": ""
+        },
+        {
+          "icon": "http://img2.hdletv.com/parts/20160921/513481894887468",
+          "type": ""
+        },
+        {
+          "icon": "http://img2.hdletv.com/parts/20160921/513481994073692",
+          "type": ""
+        },
+        {
+          "icon": "http://img2.hdletv.com/parts/20160921/513482321663907",
+          "type": ""
+        },
+        {
+          "icon": "http://img2.hdletv.com/parts/20160921/513475849045529",
+          "type": ""
+        }
+      ],
+      "title": "今日特卖",
+      "bgImg": "http://static.scloud.letv.com/res/8c82bff5-e25a-46ae-832a-bc01924f189b.jpg"
+    },
+    {
+      "goods": [
+        {
+          "icon": "http://static-scloud.cp21.ott.cibntv.net/res/2def08b6-da40-4dc8-b698-1c28b0835fa9.jpg",
+          "type": ""
+        },
+        {
+          "icon": "http://static-scloud.cp21.ott.cibntv.net/res/3b5cabeb-92bb-4409-b0ae-2e1d1089a39a.jpg",
+          "type": ""
+        },
+        {
+          "icon": "http://static-scloud.cp21.ott.cibntv.net/res/9fbaea76-7dad-47c7-9648-5e84f63972f5.jpg",
+          "type": ""
+        },
+        {
+          "icon": "http://static-scloud.cp21.ott.cibntv.net/res/e536895c-57d3-4726-97ad-ffbd1749343f.jpg",
+          "type": ""
+        },
+        {
+          "icon": "http://static-scloud.cp21.ott.cibntv.net/res/467f0206-2382-4469-9d01-33eacacafb24.jpg",
+          "type": ""
+        },
+        {
+          "icon": "http://static-scloud.cp21.ott.cibntv.net/res/a17658f5-f130-4e20-8e89-476ad4247fd5.jpg",
+          "type": ""
+        },
+        {
+          "icon": "http://static-scloud.cp21.ott.cibntv.net/res/9fbaea76-7dad-47c7-9648-5e84f63972f5.jpg",
+          "type": ""
+        },
+        {
+          "icon": "http://static-scloud.cp21.ott.cibntv.net/res/e536895c-57d3-4726-97ad-ffbd1749343f.jpg",
+          "type": ""
+        },
+        {
+          "icon": "http://img2.hdletv.com/parts/20160921/513478988982239",
+          "type": ""
+        },
+        {
+          "icon": "http://img2.hdletv.com/parts/20160921/513481894887468",
+          "type": ""
+        },
+        {
+          "icon": "http://img2.hdletv.com/parts/20160921/513481994073692",
+          "type": ""
+        },
+        {
+          "icon": "http://img2.hdletv.com/parts/20160921/513482321663907",
+          "type": ""
+        },
+        {
+          "icon": "http://img2.hdletv.com/parts/20160921/513475849045529",
+          "type": ""
+        }
+      ],
+      "title": "数码",
+      "bgImg": "http://static.scloud.letv.com/res/da3baa78-b44d-4f80-8e42-c4cced277827.jpg"
+    },
+    {
+      "goods": [
+        {
+          "icon": "http://static-scloud.cp21.ott.cibntv.net/res/3b5cabeb-92bb-4409-b0ae-2e1d1089a39a.jpg",
+          "type": ""
+        },
+        {
+          "icon": "http://img2.hdletv.com/parts/20160921/513476004211956",
+          "type": ""
+        },
+        {
+          "icon": "http://img2.hdletv.com/parts/20160921/513478689917599",
+          "type": ""
+        },
+        {
+          "icon": "http://img2.hdletv.com/parts/20160921/513478786413650",
+          "type": ""
+        },
+        {
+          "icon": "http://img2.hdletv.com/parts/20160921/513478988982239",
+          "type": ""
+        },
+        {
+          "icon": "http://img2.hdletv.com/parts/20160921/513481894887468",
+          "type": ""
+        },
+        {
+          "icon": "http://img2.hdletv.com/parts/20160921/513481994073692",
+          "type": ""
+        },
+        {
+          "icon": "http://img2.hdletv.com/parts/20160921/513482321663907",
+          "type": ""
+        },
+        {
+          "icon": "http://img2.hdletv.com/parts/20160921/513475849045529",
+          "type": ""
+        },
+        {
+          "icon": "http://img2.hdletv.com/parts/20160921/513476004211956",
+          "type": ""
+        },
+        {
+          "icon": "http://img2.hdletv.com/parts/20160921/513472812481185",
+          "type": ""
+        }
+      ],
+      "title": "食品饮料",
+      "bgImg": "http://static.scloud.letv.com/res/9ec856f4-5528-4ab7-a5bc-ba383664f0bb.jpg"
+    },
+    {
+      "goods": [
+        {
+          "icon": "http://static-scloud.cp21.ott.cibntv.net/res/1e1889b1-4414-4268-918c-4e1cd1de9f89.jpg",
+          "type": ""
+        },
+        {
+          "icon": "http://img2.hdletv.com/parts/20160921/513478689917599",
+          "type": ""
+        },
+        {
+          "icon": "http://img2.hdletv.com/parts/20160921/513478786413650",
+          "type": ""
+        },
+        {
+          "icon": "http://img2.hdletv.com/parts/20160921/513478988982239",
+          "type": ""
+        },
+        {
+          "icon": "http://img2.hdletv.com/parts/20160921/513481894887468",
+          "type": ""
+        },
+        {
+          "icon": "http://img2.hdletv.com/parts/20160921/513481994073692",
+          "type": ""
+        },
+        {
+          "icon": "http://img2.hdletv.com/parts/20160921/513482321663907",
+          "type": ""
+        },
+        {
+          "icon": "http://img2.hdletv.com/parts/20160921/513475849045529",
+          "type": ""
+        },
+        {
+          "icon": "http://img2.hdletv.com/parts/20160921/513476004211956",
+          "type": ""
+        },
+        {
+          "icon": "http://img2.hdletv.com/parts/20160921/513472812481185",
+          "type": ""
+        }
+      ],
+      "title": "家居厨房",
+      "bgImg": "http://static.scloud.letv.com/res/16b2dba5-f3a5-46c5-8b72-6ff6fd65499e.jpg"
+    },
+    {
+      "goods": [
+        {
+          "icon": "http://static-scloud.cp21.ott.cibntv.net/res/a17658f5-f130-4e20-8e89-476ad4247fd5.jpg",
+          "type": ""
+        },
+        {
+          "icon": "http://img2.hdletv.com/parts/20160921/513478786413650",
+          "type": ""
+        },
+        {
+          "icon": "http://img2.hdletv.com/parts/20160921/513478988982239",
+          "type": ""
+        },
+        {
+          "icon": "http://img2.hdletv.com/parts/20160921/513481894887468",
+          "type": ""
+        },
+        {
+          "icon": "http://img2.hdletv.com/parts/20160921/513481994073692",
+          "type": ""
+        },
+        {
+          "icon": "http://img2.hdletv.com/parts/20160921/513482321663907",
+          "type": ""
+        },
+        {
+          "icon": "http://img2.hdletv.com/parts/20160921/513475849045529",
+          "type": ""
+        },
+        {
+          "icon": "http://img2.hdletv.com/parts/20160921/513476004211956",
+          "type": ""
+        },
+        {
+          "icon": "http://img2.hdletv.com/parts/20160921/513472812481185",
+          "type": ""
+        }
+      ],
+      "title": "亲子母婴",
+      "bgImg": "http://static.scloud.letv.com/res/fe45b214-36c4-44c3-aa84-c3e8a88a8365.jpg"
+    },
+    {
+      "goods": [
+        {
+          "icon": "http://static-scloud.cp21.ott.cibntv.net/res/698029e5-8dfb-4a5e-94b4-a6d658dc186d.jpg",
+          "type": ""
+        },
+        {
+          "icon": "http://img2.hdletv.com/parts/20160921/513478988982239",
+          "type": ""
+        },
+        {
+          "icon": "http://img2.hdletv.com/parts/20160921/513481894887468",
+          "type": ""
+        },
+        {
+          "icon": "http://img2.hdletv.com/parts/20160921/513481994073692",
+          "type": ""
+        },
+        {
+          "icon": "http://img2.hdletv.com/parts/20160921/513482321663907",
+          "type": ""
+        },
+        {
+          "icon": "http://img2.hdletv.com/parts/20160921/513475849045529",
+          "type": ""
+        },
+        {
+          "icon": "http://img2.hdletv.com/parts/20160921/513476004211956",
+          "type": ""
+        },
+        {
+          "icon": "http://img2.hdletv.com/parts/20160921/513472812481185",
+          "type": ""
+        }
+      ],
+      "title": "服饰鞋包",
+      "bgImg": "http://static.scloud.letv.com/res/157477da-96fc-4d1c-a95b-0e6470ce6530.jpg"
+    },
+    {
+      "goods": [
+        {
+          "icon": "http://static-scloud.cp21.ott.cibntv.net/res/749423a4-e092-4cab-bf3f-3de45be69098.jpg",
+          "type": ""
+        },
+        {
+          "icon": "http://img2.hdletv.com/parts/20160921/513478786413650",
+          "type": ""
+        },
+        {
+          "icon": "http://img2.hdletv.com/parts/20160921/513478988982239",
+          "type": ""
+        },
+        {
+          "icon": "http://img2.hdletv.com/parts/20160921/513481894887468",
+          "type": ""
+        },
+        {
+          "icon": "http://img2.hdletv.com/parts/20160921/513481994073692",
+          "type": ""
+        },
+        {
+          "icon": "http://img2.hdletv.com/parts/20160921/513482321663907",
+          "type": ""
+        },
+        {
+          "icon": "http://img2.hdletv.com/parts/20160921/513475849045529",
+          "type": ""
+        },
+        {
+          "icon": "http://img2.hdletv.com/parts/20160921/513476004211956",
+          "type": ""
+        },
+        {
+          "icon": "http://img2.hdletv.com/parts/20160921/513472812481185",
+          "type": ""
+        }
+      ],
+      "title": "个护美妆",
+      "bgImg": "http://static.scloud.letv.com/res/d79f8cff-2b4e-4615-9a30-72e14d0f4882.jpg"
+    },
+    {
+      "goods": [
+        {
+          "icon": "http://static-scloud.cp21.ott.cibntv.net/res/6765a4b8-1a2f-4aa1-af2e-14cb86a06f21.jpg",
+          "type": ""
+        },
+        {
+          "icon": "http://img2.hdletv.com/parts/20160921/513481894887468",
+          "type": ""
+        },
+        {
+          "icon": "http://img2.hdletv.com/parts/20160921/513481994073692",
+          "type": ""
+        },
+        {
+          "icon": "http://img2.hdletv.com/parts/20160921/513482321663907",
+          "type": ""
+        },
+        {
+          "icon": "http://img2.hdletv.com/parts/20160921/513475849045529",
+          "type": ""
+        },
+        {
+          "icon": "http://img2.hdletv.com/parts/20160921/513476004211956",
+          "type": ""
+        },
+        {
+          "icon": "http://img2.hdletv.com/parts/20160921/513472812481185",
+          "type": ""
+        }
+      ],
+      "title": "测试",
+      "bgImg": "http://static.scloud.letv.com/res/16b2dba5-f3a5-46c5-8b72-6ff6fd65499e.jpg"
+    }
+  ]
+}

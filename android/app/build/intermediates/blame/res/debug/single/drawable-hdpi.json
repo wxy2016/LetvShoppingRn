@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/wuxiaoyang/Letv/LETVRN/LetvShoppingRn/android/app/build/intermediates/res/merged/debug/drawable-hdpi/btn_default_normal_holo_letv.9.png",
+        "source": "/home/wuxiaoyang/Letv/LETVRN/LetvShoppingRn/android/app/src/main/res/drawable-hdpi/btn_default_normal_holo_letv.9.png"
+    },
+    {
+        "merged": "/home/wuxiaoyang/Letv/LETVRN/LetvShoppingRn/android/app/build/intermediates/res/merged/debug/drawable-hdpi/btn_default_pressed_topup_traffic.9.png",
+        "source": "/home/wuxiaoyang/Letv/LETVRN/LetvShoppingRn/android/app/src/main/res/drawable-hdpi/btn_default_pressed_topup_traffic.9.png"
+    },
+    {
+        "merged": "/home/wuxiaoyang/Letv/LETVRN/LetvShoppingRn/android/app/build/intermediates/res/merged/debug/drawable-hdpi/btn_default_pressed_holo_letv.9.png",
+        "source": "/home/wuxiaoyang/Letv/LETVRN/LetvShoppingRn/android/app/src/main/res/drawable-hdpi/btn_default_pressed_holo_letv.9.png"
+    },
+    {
+        "merged": "/home/wuxiaoyang/Letv/LETVRN/LetvShoppingRn/android/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_shopping_details_button_normal.9.png",
+        "source": "/home/wuxiaoyang/Letv/LETVRN/LetvShoppingRn/android/app/src/main/res/drawable-hdpi/ic_shopping_details_button_normal.9.png"
+    },
+    {
+        "merged": "/home/wuxiaoyang/Letv/LETVRN/LetvShoppingRn/android/app/build/intermediates/res/merged/debug/drawable-hdpi/focus_highlight.9.png",
+        "source": "/home/wuxiaoyang/Letv/LETVRN/LetvShoppingRn/android/app/src/main/res/drawable-hdpi/focus_highlight.9.png"
+    },
+    {
+        "merged": "/home/wuxiaoyang/Letv/LETVRN/LetvShoppingRn/android/app/build/intermediates/res/merged/debug/drawable-hdpi/btn_default_disabled_holo_letv.9.png",
+        "source": "/home/wuxiaoyang/Letv/LETVRN/LetvShoppingRn/android/app/src/main/res/drawable-hdpi/btn_default_disabled_holo_letv.9.png"
+    },
+    {
+        "merged": "/home/wuxiaoyang/Letv/LETVRN/LetvShoppingRn/android/app/build/intermediates/res/merged/debug/drawable-hdpi/focus_highlight_pressed.9.png",
+        "source": "/home/wuxiaoyang/Letv/LETVRN/LetvShoppingRn/android/app/src/main/res/drawable-hdpi/focus_highlight_pressed.9.png"
+    },
+    {
+        "merged": "/home/wuxiaoyang/Letv/LETVRN/LetvShoppingRn/android/app/build/intermediates/res/merged/debug/drawable-hdpi/btn_default_focus_topup_traffic.9.png",
+        "source": "/home/wuxiaoyang/Letv/LETVRN/LetvShoppingRn/android/app/src/main/res/drawable-hdpi/btn_default_focus_topup_traffic.9.png"
+    },
+    {
+        "merged": "/home/wuxiaoyang/Letv/LETVRN/LetvShoppingRn/android/app/build/intermediates/res/merged/debug/drawable-hdpi/btn_default_focused_holo_letv.9.png",
+        "source": "/home/wuxiaoyang/Letv/LETVRN/LetvShoppingRn/android/app/src/main/res/drawable-hdpi/btn_default_focused_holo_letv.9.png"
+    },
+    {
+        "merged": "/home/wuxiaoyang/Letv/LETVRN/LetvShoppingRn/android/app/build/intermediates/res/merged/debug/drawable-hdpi/btn_default_normal_topup_traffic.9.png",
+        "source": "/home/wuxiaoyang/Letv/LETVRN/LetvShoppingRn/android/app/src/main/res/drawable-hdpi/btn_default_normal_topup_traffic.9.png"
+    }
+]

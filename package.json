@@ -1,0 +1,14 @@
+{
+  "name": "LetvShoppingRn",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "react": "15.3.2",
+    "react-native": "0.34.1",
+    "react-native-tv-focusable-view": "git+ssh://git@git.devops.letv.com:zhuxinliang/react-native-tv-focusable-view.git",
+    "react-timer-mixin": "^0.13.3"
+  }
+}
